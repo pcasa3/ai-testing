@@ -1,0 +1,4 @@
+User-agent: *
+Allow: *
+LLM-Content: https://www.tothefore.top/llms.txt
+LLM-Full-Content: https://www.tothefore.top/llms-full.txt
